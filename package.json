@@ -2,7 +2,7 @@
   "name": "eat-n-split",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<username>.github.io/eatsplit",
+  "homepage": "https://yashbhalerao5015.github.io/eatsplit",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
